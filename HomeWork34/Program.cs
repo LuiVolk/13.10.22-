@@ -42,3 +42,4 @@ PrintArray(arr);
 
 int res = GetCountNumEven(arr);
 Console.WriteLine($"Количество четных чисел в массиве -> {res}");
+
