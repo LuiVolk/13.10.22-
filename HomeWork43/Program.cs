@@ -23,7 +23,7 @@ void CrossPointStraigh(double b1, double k1, double b2, double k2)
     else Console.WriteLine($"Точка пересечения двух прямых -> (X = {x}, Y = {y})");
 }
 
-CrossPointStraigh(numB1, numK1, numB2, numK2);
+CrossPointStraigh(numB1, numK1, numB2, numK2); 
 
 
 
